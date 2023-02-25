@@ -6,6 +6,6 @@ numpy
 pandas
 pydot
 scipy
-
+drake==1.13
 # Adds this project to path
 -e .
